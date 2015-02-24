@@ -1,2 +1,6 @@
 *.log
 *.aux
+*.bbl
+*.bcf
+*.run.xml
+*.blg
